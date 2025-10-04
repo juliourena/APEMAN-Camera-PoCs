@@ -2,7 +2,7 @@
 
 This walkthrough shows how an unauthenticated attacker on the same network can leverage ONVIF endpoints to obtain the RTSP URI and watch the live video stream, without credentials.
 
-![Live camera stream](./camera.png)
+![Live camera stream](./camera2.png)
 
 Firmware version: "218.53.203.117"
 
