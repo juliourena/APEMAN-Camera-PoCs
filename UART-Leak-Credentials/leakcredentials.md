@@ -2,6 +2,7 @@ During local testing we observed that device secrets (including the web admin ac
 
 As show in the following video Wireless and Admin credentials are leaked:
 
+[UARTLeakGIF](bootUART.gif)
 [UARTLeak](bootUART.mp4)
 
 Impact: An attacker with physical access to the device (or to accessible UART pads) can obtain administrative and wireless credentials and gain administrative access to the device and/or join the local network. This enables device takeover, configuration changes, firmware replacement, data exfiltration, and network pivoting.
